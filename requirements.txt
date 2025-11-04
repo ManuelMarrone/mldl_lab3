@@ -1,1 +1,4 @@
-
+pyyaml
+torch
+torchvision
+tqdm
